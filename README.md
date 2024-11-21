@@ -1,11 +1,12 @@
 
-# Data Analysis Notebook README
+# AML Fraud Detection Project README
 
 ## Overview
 
+This project focuses on fraud detection on user transaction data utilizing machine learning and data engineering approaches. Specifically, it aims to enhance anti-money laundering (AML) efforts by leveraging feature engineering and supervised machine learning models, such as Random Forest and XGBoost, applied to synthetic financial transaction data. The study primarily works with the AMLSim synthetic dataset to simulate realistic transaction behaviors and identify suspicious patterns. Feature engineering is a key component, helping improve model accuracy and interpretability by creating new insights from raw data. The project also explores different sampling techniques to address data imbalances and evaluates the impact of engineered features on model performance.
+
 This repository contains a Jupyter Notebook titled `Data.ipynb`, which performs data analysis using Python. The notebook provides insights by exploring, transforming, and visualizing data to help users better understand the dataset. The project is intended for anyone interested in exploring data with Python, particularly using common data science libraries.
 
-This project focuses on fraud detection on user transaction data utilizing machine learning and data engineering approaches. Specifically, it aims to enhance anti-money laundering (AML) efforts by leveraging feature engineering and supervised machine learning models, such as Random Forest and XGBoost, applied to synthetic financial transaction data. The study primarily works with the AMLSim synthetic dataset to simulate realistic transaction behaviors and identify suspicious patterns. Feature engineering is a key component, helping improve model accuracy and interpretability by creating new insights from raw data. The project also explores different sampling techniques to address data imbalances and evaluates the impact of engineered features on model performance.
 
 ## Requirements
 
